@@ -12,8 +12,10 @@ A simple, DPI-aware, cross-platform timezone converter with a countdown timer an
 
 ## How to Run
 
-Win: Just run the exe. 
+Win: Extract DIR version and run the exe.
+Or just run the EXE from the SOLO version. 
 DIR mode is more compatible, SOLO is cleaner.
+(Actually it's just the poop icon works better in dir mode)
 
 Nix/MacOS: Run the scripts because Pyinstall is a fussy bitch.
 
