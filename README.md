@@ -3,10 +3,11 @@
 A simple, DPI-aware, cross-platform timezone converter with a countdown timer and overlay functionality.
 
 ## Features
-#NEW 
+# NEW 
   - DARK MODE?!
   - Full minimise to tray support for overlay mode along with snapping.
   - Can handle basic moving without crashing like a fussy bitch.
+# OLD AND BASIC
 - Convert between all major timezones
 - Poorly attempts to detect your timezone for you.
 - Handles daylight savings automatically
